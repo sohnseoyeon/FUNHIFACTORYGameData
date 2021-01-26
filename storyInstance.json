@@ -1052,7 +1052,7 @@
                 "likability": [],
                 "chatType" : "onlyText",
                 "characterFace" : "basic",
-                "nextTextIndex": "0"
+                "nextTextIndex": "badEnding"
             },
             {
                 "text": "",
@@ -4797,7 +4797,7 @@
                 "likability": [],
                 "chatType" : "onlyText",
                 "characterFace" : "basic",
-                "nextTextIndex": "0",
+                "nextTextIndex": "badEnding",
                 "achievementToUnlock":null,
                 "infomationToUnlock":null,
                 "gameCharacterToUnlock":null,
@@ -6559,7 +6559,7 @@
                 "likability": [],
                 "chatType" : "onlyText",
                 "characterFace" : "basic",
-                "nextTextIndex": "00",
+                "nextTextIndex": "episodeSuccess",
                 "achievementToUnlock":null,
                 "infomationToUnlock":null,
                 "gameCharacterToUnlock":null,

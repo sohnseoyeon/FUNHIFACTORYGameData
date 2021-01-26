@@ -171,7 +171,7 @@
             {
                 "text": "",
                 "likability": [],
-                "nextTextIndex": "005" //*이렇게 하면 선택지 건너뛰고 5번으로 넘어가는게 맞나?
+                "nextTextIndex": "005"
             },
             {
                 "text": "",
@@ -2340,7 +2340,7 @@
         "id": "043",
         "chats": [
             {
-                "text": "", //텍스트 안 나오고 바로 선택지 나올 수 있나?
+                "text": "",
                 "image": "",
                 "type": "onlyText",
                 "who": "hwiryeong",
