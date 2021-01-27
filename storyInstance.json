@@ -4818,7 +4818,7 @@
             }
         ],
         "achievement": null,
-        "choiceSkip": true,
+        "choiceSkip": false,
         "isGodChat": false
     },
     {
