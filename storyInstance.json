@@ -1406,14 +1406,14 @@
                 "likability": [],
                 "chatType" : "onlyText",
                 "characterFace" : "surprise1",
-                "nextTextIndex": "20"
+                "nextTextIndex": "020"
             },
             {
                 "text": "네?",
                 "likability": [],
                 "chatType" : "onlyText",
                 "characterFace" : "surprise1",
-                "nextTextIndex": "21"
+                "nextTextIndex": "021"
             }
         ],
         "achievement": null,
