@@ -142,7 +142,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "002",
@@ -188,7 +188,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "003",
@@ -246,7 +246,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "004",
@@ -340,7 +340,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "005",
@@ -410,7 +410,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "006",
@@ -456,7 +456,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "007",
@@ -526,7 +526,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "008",
@@ -620,7 +620,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "009",
@@ -678,7 +678,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "010",
@@ -724,7 +724,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "011",
@@ -782,7 +782,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "012",
@@ -828,7 +828,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "013",
@@ -874,7 +874,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "014",
@@ -956,7 +956,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "015",
@@ -1064,7 +1064,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "016",
@@ -1158,7 +1158,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "017",
@@ -1216,7 +1216,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "018",
@@ -1334,7 +1334,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "019",
@@ -1418,7 +1418,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "020",
@@ -1476,7 +1476,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "021",
@@ -1534,7 +1534,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "022",
@@ -1616,7 +1616,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "023",
@@ -1686,7 +1686,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "024",
@@ -1792,7 +1792,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "025",
@@ -1862,7 +1862,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "026",
@@ -1944,7 +1944,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "027",
@@ -1997,7 +1997,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "028",
@@ -2033,7 +2033,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "029",
@@ -2091,7 +2091,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "030",
@@ -2149,7 +2149,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "031",
@@ -2207,7 +2207,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "032",
@@ -2313,7 +2313,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "033",
@@ -2395,7 +2395,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "034",
@@ -2441,7 +2441,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "035",
@@ -2499,7 +2499,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "036",
@@ -2593,7 +2593,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "037",
@@ -2687,7 +2687,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "038",
@@ -2793,7 +2793,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "039",
@@ -2887,7 +2887,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "040",
@@ -2957,7 +2957,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "041",
@@ -3027,7 +3027,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "042",
@@ -3085,7 +3085,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "043",
@@ -3155,7 +3155,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "044",
@@ -3297,7 +3297,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "045",
@@ -3355,7 +3355,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "046",
@@ -3425,7 +3425,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "047",
@@ -3519,7 +3519,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "048",
@@ -3601,7 +3601,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "049",
@@ -3683,7 +3683,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "050",
@@ -3801,7 +3801,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "051",
@@ -3883,7 +3883,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "052",
@@ -3941,7 +3941,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "053",
@@ -4011,7 +4011,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "054",
@@ -4117,7 +4117,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "055",
@@ -4173,7 +4173,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "056",
@@ -4251,7 +4251,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "057",
@@ -4318,7 +4318,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "058",
@@ -4396,7 +4396,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "059",
@@ -4474,7 +4474,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "060",
@@ -4563,7 +4563,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "061",
@@ -4608,7 +4608,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "062",
@@ -4664,7 +4664,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "063",
@@ -4819,7 +4819,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": false
+        "isGodChat": "off"
     },
     {
         "id": "064",
@@ -4886,7 +4886,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "065",
@@ -4953,7 +4953,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "066",
@@ -5031,7 +5031,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "067",
@@ -5109,7 +5109,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "068",
@@ -5198,7 +5198,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "069",
@@ -5254,7 +5254,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "070",
@@ -5299,7 +5299,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "071",
@@ -5388,7 +5388,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "072",
@@ -5433,7 +5433,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "073",
@@ -5500,7 +5500,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "074",
@@ -5589,7 +5589,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "075",
@@ -5634,7 +5634,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "076",
@@ -5723,7 +5723,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "077",
@@ -5768,7 +5768,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "078",
@@ -5857,7 +5857,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "079",
@@ -6001,7 +6001,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "080",
@@ -6068,7 +6068,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "081",
@@ -6135,7 +6135,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "082",
@@ -6191,7 +6191,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "083",
@@ -6258,7 +6258,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "084",
@@ -6336,7 +6336,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "085",
@@ -6425,7 +6425,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "086",
@@ -6492,7 +6492,7 @@
         ],
         "achievement": null,
         "choiceSkip": false,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "086",
@@ -6581,7 +6581,7 @@
         ],
         "achievement": null,
         "choiceSkip": true,
-        "isGodChat": true
+        "isGodChat": "on"
     },
     {
         "id": "087",
