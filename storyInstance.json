@@ -140,9 +140,10 @@
                 
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "002",
@@ -186,9 +187,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "003",
@@ -244,9 +246,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "004",
@@ -338,9 +341,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "005",
@@ -408,9 +412,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "006",
@@ -454,9 +459,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "007",
@@ -524,9 +530,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "008",
@@ -618,9 +625,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "009",
@@ -676,9 +684,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "010",
@@ -722,9 +731,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "011",
@@ -780,9 +790,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "012",
@@ -826,9 +837,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "013",
@@ -872,9 +884,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "014",
@@ -954,9 +967,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "015",
@@ -1062,9 +1076,10 @@
                 "nextTextIndex": "0"
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "016",
@@ -1156,9 +1171,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "017",
@@ -1214,9 +1230,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "018",
@@ -1332,9 +1349,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "019",
@@ -1416,9 +1434,10 @@
                 "nextTextIndex": "021"
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "020",
@@ -1474,9 +1493,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "021",
@@ -1532,9 +1552,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "022",
@@ -1614,9 +1635,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "023",
@@ -1684,9 +1706,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "024",
@@ -1790,9 +1813,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "025",
@@ -1860,9 +1884,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "026",
@@ -1942,9 +1967,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "027",
@@ -1995,9 +2021,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "028",
@@ -2031,9 +2058,10 @@
                 "nextTextIndex": "087"
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "029",
@@ -2089,9 +2117,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "030",
@@ -2147,9 +2176,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "031",
@@ -2205,9 +2235,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "032",
@@ -2311,9 +2342,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "033",
@@ -2393,9 +2425,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "034",
@@ -2439,9 +2472,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "035",
@@ -2497,9 +2531,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "036",
@@ -2591,9 +2626,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "037",
@@ -2685,9 +2721,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "038",
@@ -2791,9 +2828,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "039",
@@ -2885,9 +2923,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "040",
@@ -2955,9 +2994,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "041",
@@ -3025,9 +3065,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "042",
@@ -3083,9 +3124,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "043",
@@ -3153,9 +3195,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "044",
@@ -3295,9 +3338,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "045",
@@ -3353,9 +3397,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "046",
@@ -3423,9 +3468,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "047",
@@ -3517,9 +3563,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "048",
@@ -3599,9 +3646,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "049",
@@ -3681,9 +3729,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "050",
@@ -3799,9 +3848,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "051",
@@ -3881,9 +3931,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "052",
@@ -3939,9 +3990,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "053",
@@ -4009,9 +4061,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "054",
@@ -4115,9 +4168,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "055",
@@ -4171,9 +4225,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "056",
@@ -4249,9 +4304,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "057",
@@ -4316,9 +4372,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "058",
@@ -4394,9 +4451,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "059",
@@ -4472,9 +4530,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "060",
@@ -4561,9 +4620,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "061",
@@ -4606,9 +4666,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "062",
@@ -4662,9 +4723,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "063",
@@ -4817,9 +4879,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "off"
+        "isGodChat": "off",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "064",
@@ -4884,9 +4947,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "065",
@@ -4951,9 +5015,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "066",
@@ -5029,9 +5094,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "067",
@@ -5107,9 +5173,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "068",
@@ -5196,9 +5263,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "069",
@@ -5252,9 +5320,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "070",
@@ -5297,9 +5366,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "071",
@@ -5386,9 +5456,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "072",
@@ -5431,9 +5502,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "073",
@@ -5498,9 +5570,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "074",
@@ -5587,9 +5660,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "075",
@@ -5632,9 +5706,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "076",
@@ -5721,9 +5796,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "077",
@@ -5766,9 +5842,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "078",
@@ -5855,9 +5932,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "079",
@@ -5999,9 +6077,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "080",
@@ -6066,9 +6145,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "081",
@@ -6133,9 +6213,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "082",
@@ -6189,9 +6270,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "083",
@@ -6256,9 +6338,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "084",
@@ -6334,9 +6417,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "085",
@@ -6423,9 +6507,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "086",
@@ -6490,9 +6575,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": false,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "086",
@@ -6579,9 +6665,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat": "on"
+        "isGodChat": "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     },
     {
         "id": "087",
@@ -6646,9 +6733,10 @@
                 "albumImageToUnlock":null
             }
         ],
-        "achievement": null,
         "choiceSkip": true,
-        "isGodChat" : "on"
+        "isGodChat" : "on",
+        "backGroundMusic":"normal",
+        "enterAnimation":"none"
     }
 
 ]
